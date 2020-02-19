@@ -9,5 +9,6 @@ L'application aura une vue sur le Twitter officiel des créateurs de Magic (Wiza
 Nous avons trouvé des APIs pouvant être utilisées pour rechercher des cartes Magic : https://docs.magicthegathering.io/
 Nous avons choisi de développer l'application en Kotlin, car c'est un langage que nous connaissont bien.
 
+Nous utiliserons des APIs Google maps et Twitter pour obtenir une vue sur le Twitter officiel Magic the gathering, et sur les magasins qui vendent leurs produits.
 
 
