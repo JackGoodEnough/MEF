@@ -1,0 +1,11 @@
+
+Mano Brabant :
+
+  - Identification des différentes APIs de recherche des cartes
+  - Définition des différentes fonctionnalités de l'appliction web
+  - Analysation des APIs de recherhce de cartes
+  - Mise en place de l'environnement de developpement (Dépot Git)
+  - Mise en place du cahier des charges
+  
+  
+ 
