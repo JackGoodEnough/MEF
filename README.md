@@ -9,7 +9,9 @@ Elle aura une vue sur le Twitter officiel des créateurs de Magic (Wizard of the
 
 API (REST et JSON) trouvé :
   - https://docs.magicthegathering.io/
-    - Ces APIs on toutes les mêmes fonctionnalités dans les langages suivants :
+    - Les fonctionnalités des ces APIs sont les suivantes :
+      - Rechercher des cartes selon certains critères et les récupérer au format JSON
+    - Ces APIs ont toutes les mêmes fonctionnalités dans les langages suivants :
       - Ruby
       - Python
       - Javascript
@@ -20,8 +22,7 @@ API (REST et JSON) trouvé :
       - Go
       - Swift
       - Typescript
-     - Les fonctionnalité des ces APIs sont les suivantes :
-      - Rechercher des cartes selon certains critères et les récupérer au format JSON
+     
       
      
 
