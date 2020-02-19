@@ -20,7 +20,9 @@ API (REST et JSON) trouvé :
       - Go
       - Swift
       - Typescript
-     - 
+     - Les fonctionnalité des ces APIs sont les suivantes :
+      - Rechercher des cartes selon certains critères et les récupérer au format JSON
+      
      
 
 
