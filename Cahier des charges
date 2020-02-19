@@ -1,1 +1,13 @@
 
+
+
+
+Dans le cadre du 6ème semestre de notre Licence 3 Informatique à l’Université du Mans, il nous a été demandé, de développer une application web.
+Nous avons choisi une application web qui nous permettera de rechercher des cartes Magic the gathering, et de construire un deck avec ses cartes.
+L'application aura une vue sur le Twitter officiel des créateurs de Magic (Wizard of the Coast) : https://twitter.com/wizards_magic
+
+Nous avons trouvé des APIs pouvant être utilisées pour rechercher des cartes Magic : https://docs.magicthegathering.io/
+Nous avons choisi de développer l'application en Kotlin, car c'est un langage que nous connaissont bien.
+
+
+
