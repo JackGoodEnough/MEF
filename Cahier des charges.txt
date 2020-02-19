@@ -7,7 +7,7 @@ Nous avons choisi une application web qui nous permettera de rechercher des cart
 L'application aura une vue sur le Twitter officiel des créateurs de Magic (Wizard of the Coast) : https://twitter.com/wizards_magic
 
 Nous avons trouvé des APIs pouvant être utilisées pour rechercher des cartes Magic : https://docs.magicthegathering.io/
-Nous avons choisi de développer l'application en Kotlin, car c'est un langage que nous connaissont bien.
+Nous avons choisi de développer l'application en Java, car c'est un langage que nous connaissont bien.
 
 Nous utiliserons des APIs Google maps et Twitter pour obtenir une vue sur le Twitter officiel Magic the gathering, et sur les magasins qui vendent leurs produits.
 
